@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Maven';
+    src: url('src/assets/fonts/MavenPro-Regular.ttf');
+    font-weight: 400;
+    
+}
+
+@font-face {
+    font-family: 'Maven';
+    src: url('src/assets/fonts/MavenPro-Bold.ttf');
+    font-weight: 700;
+
+}
+@font-face {
+    font-family: 'Maven';
+    src: url('src/assets/fonts/MavenPro-Regular.ttf');
+    font-weight: 100;
+
+}
+
+$wr-black: #1b262c;
+$wr-dark-blue: #0f4c75;
+$wr-blue: #3282b8;
+$wr-light-blue: #bbe1fa;
+$wr-grey: #ececec;
+$font: 'Maven', sans-serif;
